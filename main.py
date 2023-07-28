@@ -1,4 +1,5 @@
 # This file is for strategy
+#Rocket League Bot (Nataie Allen)
 
 from util.objects import *
 from util.routines import *
